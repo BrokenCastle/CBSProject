@@ -1,4 +1,4 @@
-## CBSProject
+## CBSProje
 
 PostgreSQL veritabanı ile Coğrafi Bilgi Sistemi Web Uygulaması
 
