@@ -1,0 +1,71 @@
+﻿body {
+}
+
+.p0{
+    padding:0;
+}
+
+.kutu{
+    float:left;
+    margin-left:400px;
+    margin-top:30px;
+    padding:130px;
+    width:600px; 
+    height:500px;  
+    background:#eee;
+    font:13px Arial, Tahoma, Verdana;   
+}
+
+.text1{
+    margin-left:33px;
+    margin-top:9px;
+    padding:7px 10px;
+    width:255px;
+}
+
+.text2{
+    margin-left:17px;
+    margin-top:9px;
+    padding:7px 10px;
+    width:255px;
+}
+
+.text3{
+    margin-left:0px;
+    margin-top:9px;
+    padding:7px 10px;
+    width:255px;
+}
+
+.text4{
+    margin-left:0px;
+    margin-top:9px;
+    padding:7px 10px;
+    width:255px;
+}
+
+.text5{
+    margin-left:14px;
+    margin-top:9px;
+    padding:7px 10px;
+    width:255px;
+}
+
+.button{
+    float:right;
+    margin-right:13px;
+    margin-top:15px;
+    border:1px solid #666;
+    padding:7px 14px;
+    background:cornflowerblue;
+    color:#fff;
+    font-weight:bold;
+}
+
+.message{
+    color:red;
+    font-weight:bold;
+    float:left;
+    margin-left:0px;
+    margin-top:10px;
+}

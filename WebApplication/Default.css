@@ -1,0 +1,83 @@
+﻿body {
+    padding-top:51px;
+}
+
+.h500{
+    height:500px;
+    background-color:#F5F5F5;
+}
+
+.p0{
+    padding:0;
+}
+
+.m0{
+    margin:0;
+}
+
+.harita{
+    width:950px;
+    height:450px;
+}
+.sagkutu{
+    float:right;
+    margin-right:0px;
+    margin-top:-28px;
+    padding:30px;
+    width:416px; 
+    height:300px;  
+    background:#eee;
+    font:13px Arial, Tahoma, Verdana;
+}
+.konumaadi{
+    margin-left:20px;
+    margin-top:9px;
+    padding:7px 10px;
+    width:180px;
+}
+.kordinatx{
+    margin-left:20px;
+    margin-top:9px;
+    padding:7px 10px;
+    width:180px;
+}
+.kordinaty
+{
+    margin-left:20px;
+    margin-top:9px;
+    padding:7px 10px;
+    width:180px;
+}
+.siltusu{
+    float:right;
+    margin-right:10.5px;
+    margin-top:15px;
+    border:1px solid #666;
+    padding:7px 14px;
+    width:60px;
+    background:cornflowerblue;
+    color:#fff;
+    font-weight:bold;
+}
+
+.siltusu2{
+    float:right;
+    margin-right:10.5px;
+    margin-top:15px;
+    border:1px solid #666;
+    padding:7px 14px;
+    width:60px;
+}
+.butontusu{
+    float:right;
+    margin-right:25px;
+    margin-top:15px;
+    border:1px solid #666;
+    padding:7px 14px;
+    background:cornflowerblue;
+    color:#fff;
+    font-weight:bold;
+}
+.altkutu{
+    margin-top:0px;
+}

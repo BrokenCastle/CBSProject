@@ -1,0 +1,17 @@
+﻿body {
+}
+
+.p0{
+    padding:0;
+}
+
+.kutu{
+    float:left;
+    margin-left:400px;
+    margin-top:30px;
+    padding:130px;
+    width:600px; 
+    height:500px;  
+    background:#eee;
+    font:13px Arial, Tahoma, Verdana;   
+}
